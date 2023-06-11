@@ -31,9 +31,8 @@ int main() {
         char* defesa_text = strtok(NULL, ",");
         char* velocidade_text = strtok(NULL, ",");
         char* geracao_text = strtok(NULL, ",");
-        char* regiao_text = strtok(NULL, ",");
 
-        if (id_text && nome_text && total_force_text && tipo_text && ataque_text && defesa_text && velocidade_text && geracao_text && regiao_text) {
+        if (id_text && nome_text && total_force_text && tipo_text && ataque_text && defesa_text && velocidade_text && geracao_text ) {
             pokemon->id = atoi(id_text);
             pokemon->nome = strdup(nome_text);
             pokemon->forca_total = atoi(total_force_text);
@@ -42,7 +41,6 @@ int main() {
             pokemon->defesa = atoi(defesa_text);
             pokemon->velocidade = atoi(velocidade_text);
             pokemon->geracao = atoi(geracao_text);
-            pokemon->regiao = strdup(regiao_text);
 
             inserir_elemento_ordenado(&lista_pokemon, pokemon);
         } else {

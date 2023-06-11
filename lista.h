@@ -10,7 +10,6 @@ typedef struct pokemon {
     int defesa;
     int velocidade;
     int geracao;
-    char* regiao;
 } Pokemon;
 
 typedef struct no {

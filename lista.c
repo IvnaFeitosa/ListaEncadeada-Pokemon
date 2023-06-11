@@ -13,7 +13,6 @@ void imprimir_pokemon(void* dados) {
     printf("Defesa: %d\n", pokemon->defesa);
     printf("Velocidade: %d\n", pokemon->velocidade);
     printf("Geracao: %d\n", pokemon->geracao);
-    printf("Regiao: %s\n", pokemon->regiao);
     printf("-----------------\n");
 }
 
