@@ -30,3 +30,17 @@
 	<string.h>
 	"lista.h"
 
+1686519555 source:e:\documentos\workspacec\lista\listaencadeada-pokemon\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1686519555 e:\documentos\workspacec\lista\listaencadeada-pokemon\lista.h
+
+1686519565 source:e:\documentos\workspacec\lista\listaencadeada-pokemon\programa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
