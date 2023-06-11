@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1686250711 source:e:\documentos\workspacec\lista\projetolistapokemon\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1686414398 e:\documentos\workspacec\lista\projetolistapokemon\lista.h
+
+1686251341 source:e:\documentos\workspacec\lista\projetolistapokemon\programa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"libcsv-master/csv.h"
+
+1686251120 e:\documentos\workspacec\lista\projetolistapokemon\libcsv-master\csv.h
+	<stdlib.h>
+	<stdio.h>
+
+1686503397 source:e:\documentos\workspacec\lista\trabalho - aed i (pok…mon)\programa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1686503360 e:\documentos\workspacec\lista\trabalho - aed i (pok…mon)\lista.h
+
+1686503830 source:e:\documentos\workspacec\lista\trabalho - aed i (pok…mon)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
